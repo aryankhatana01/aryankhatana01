@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Machine Learning and AI Developer trying my hands at MLOps.<br><br>🔭 I’m currently working on a full-stack Stable Diffusion Webapp<br>🌱 I’m currently learning MLOps<br>👯 I’m looking to collaborate on any AI-related project or research paper<br>📫 How to reach me: [My Website](https://aryankhatana01.github.io/Personal-Portfolio/) or [Email](mailto:aryankhatana01@gmail.com)<br>
+I'm a passionate Machine Learning and AI Developer trying my hands at MLOps.<br><br>🔭 I’m currently working on a full-stack Stable Diffusion Model<br>🌱 I’m currently learning MLOps<br>👯 I’m looking to collaborate on any AI-related project or research paper<br>📫 How to reach me: [My Website](https://aryankhatana01.github.io/Personal-Portfolio/) or [Email](mailto:aryankhatana01@gmail.com)<br>
 
 
 ## 🌐 Socials:
